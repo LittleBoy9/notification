@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "538624036008",
+    "firebase_url": "https://test-8df8a.firebaseio.com",
+    "project_id": "test-8df8a",
+    "storage_bucket": "test-8df8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538624036008:android:ae3399516f2a8cae1dc69d",
+        "android_client_info": {
+          "package_name": "com.sounak.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538624036008-e6oqm3p9822ng5amovhoi1fqmo4o9ejn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABi-Mua3iVsjpDBC43_LUXzFSx3xbp8_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538624036008-e6oqm3p9822ng5amovhoi1fqmo4o9ejn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
